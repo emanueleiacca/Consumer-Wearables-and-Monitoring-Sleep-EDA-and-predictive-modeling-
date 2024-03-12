@@ -1,7 +1,8 @@
 # Wearables Data Analysis and Predictive Modeling
 
 ## Introduction
-The inspiration for this study comes after opening a debate in the comment section of a [paper](https://via.hypothes.is/https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00743/full) regarding the lack of practice into our course of Sport Analytics and and how practice consolidates arguments
+The inspiration for this study comes after opening a debate in the comment section of a [paper](https://via.hypothes.is/https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00743/full) regarding the lack of practice into our course of Sport Analytics and and how practice consolidates arguments.
+
 This project aims to analyze sportswear-related data and build predictive models to understand the relationship between various factors and user activities. The analysis utilizes real-world datasets sourced from Kaggle and explores correlations, visualizations, and machine-learning algorithms.
 
 ### Data Sources:
